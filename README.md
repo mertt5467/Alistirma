@@ -1,0 +1,2 @@
+# Alistirma
+Haftalık Alıştırma Soruları
