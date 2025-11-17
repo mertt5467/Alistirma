@@ -14,7 +14,7 @@ public class hafta6Alistirma {
         }
         bolum++;
         }
-        System.out.println("bölüm: " + bolum);
+        System.out.println("bÃ¶lÃ¼m: " + bolum);
         System.out.println("kalan: " + bolunen);
         
         
@@ -56,9 +56,9 @@ public class hafta6Alistirma {
             bolen--;
             }
         if(sayiAsalMi == true){
-            System.out.println("Sayı Asaldır.");
+            System.out.println("SayÄ± AsaldÄ±r.");
         }else{
-            System.out.println("Sayı Asal değildir.");
+            System.out.println("SayÄ± Asal deÄŸildir.");
         }
         
         
