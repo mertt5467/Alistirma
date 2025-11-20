@@ -1,6 +1,6 @@
-package hafta6;
+package alistirmalar;
 
-public class hafta6Alistirma {
+public class hafta6 {
     
     public static void main(String[] args) {
         
@@ -14,7 +14,7 @@ public class hafta6Alistirma {
         }
         bolum++;
         }
-        System.out.println("bÃ¶lÃ¼m: " + bolum);
+        System.out.println("bölüm: " + bolum);
         System.out.println("kalan: " + bolunen);
         
         
@@ -56,9 +56,9 @@ public class hafta6Alistirma {
             bolen--;
             }
         if(sayiAsalMi == true){
-            System.out.println("SayÄ± AsaldÄ±r.");
+            System.out.println("Sayı Asaldır.");
         }else{
-            System.out.println("SayÄ± Asal deÄŸildir.");
+            System.out.println("Sayı Asal değildir.");
         }
         
         
